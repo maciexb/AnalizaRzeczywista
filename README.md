@@ -1,0 +1,1 @@
+# AnalizaRzeczywista
