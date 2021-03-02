@@ -1,10 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
 import time
 import sys, getopt
 import os
 import numpy as np
+
 
 os.chdir("D:\\Dokumenty\\SGH_3semestr\\PodstawyAproksymacji\\Projekt_Allegro")
 
